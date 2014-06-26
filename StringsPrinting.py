@@ -1,6 +1,6 @@
 "Chapters 4-9"
 
-
+"""
 "Do the calculation of two different decimals. The output should be 0.425"
 
 
@@ -15,6 +15,8 @@
 #my_eyes = ''
 #my_teeth = ''
 #my_hair = ''
+
+
 
 "What is %s used for?"
 
@@ -61,7 +63,7 @@
 #Jul
 #Aug"
 
-"Make a multiline comment using '"""', then use that to print: "
+"Make a multiline comment using '\"""', then use that to print: \""""
 
 #There's something going on here.
 #With the three double-quotes.
