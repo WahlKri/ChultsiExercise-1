@@ -1,6 +1,5 @@
 "Here will be input tasks"
-<<<<<<< HEAD
-=======
+
 "Chapters 10 - 14"
 
 "What does \t do?"
@@ -33,5 +32,5 @@ while True:
 
 "Next make a program that asks name, age and birthplace from the user. Save inputs to variables and print them out"
 
->>>>>>> origin/master
+
 
