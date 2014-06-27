@@ -53,3 +53,5 @@ coverage.xml
 docs/_build/
 
 .idea/*
+.idea/workspace.xml
+.idea/ChultsiExercise-1.iml
