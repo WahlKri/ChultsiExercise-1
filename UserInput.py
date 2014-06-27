@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-"Here will be input tasks"
-=======
->>>>>>> origin/master
 "Chapters 10 - 14"
 
 "What does \t do?"
