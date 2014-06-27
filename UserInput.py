@@ -1,5 +1,3 @@
-"Here will be input tasks"
-
 "Chapters 10 - 14"
 
 "What does \t do?"
