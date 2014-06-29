@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-"Work in progress..."
-=======
-"Chapters 15-17"
+"""Chapters 15-17"""
 
 "READING FILES"
 
@@ -44,6 +41,7 @@
       * Does txt = open(filename) return the contents of the file?
       * What does from sys import argv mean?
       * Why is there no error when we open the file twice?
+      * Should I close the file using .close() command when I'm done with the file?
 
 
 """
@@ -52,7 +50,13 @@
 
 """
 
+Here are some useful commands to use when working with files:
 
+close -- Closes the file. Like File->Save.. in your editor.
+read -- Reads the contents of the file. You can assign the result to a variable.
+readline -- Reads just one line of a text file.
+truncate -- Empties the file. Watch out if you care about the file.
+write(stuff) -- Writes stuff to the file.
 
 
 
@@ -64,7 +68,7 @@
 
 """
 
->>>>>>> origin/master
+
 
 
 
